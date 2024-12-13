@@ -1,6 +1,16 @@
 # JSX Markup
 JSX is a syntax extension that allows you to write HTML-like markup in a JavaScript file. 
 
+- [JSX Markup](#jsx-markup)
+  - [Purpose](#purpose)
+  - [JSX vs. React](#jsx-vs-react)
+  - [Rules of JSX](#rules-of-jsx)
+    - [Return a single root element](#return-a-single-root-element)
+    - [Close all tags](#close-all-tags)
+    - [camelCase *most* things](#camelcase-most-things)
+      - [Note](#note)
+
+
 ## Purpose
 JSX allows for rendering logic and markup to be coupled. For example, a button component will contain both the logic for handling the button alongside the markup for displaying it. Meanwhile, the component system in React allows for unrelated user interface pieces to be isolated from each other.
 

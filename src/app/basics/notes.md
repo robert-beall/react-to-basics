@@ -1,6 +1,13 @@
 # Basics
 Because I already have a pretty good foundation for the basics of JSX syntax, this section will not contain extensive notes. Instead, I'll just list the pitfalls outlined in the [React Docs](https://react.dev/learn/your-first-component). These are good to remember for best-practice.
 
+- [Basics](#basics)
+  - [Pitfalls](#pitfalls)
+    - [Method Naming](#method-naming)
+    - [Parentheses for Return Statements](#parentheses-for-return-statements)
+    - [No Nested Definitions](#no-nested-definitions)
+
+
 ## Pitfalls
 These are common pitfalls encountered with basic React components.
 

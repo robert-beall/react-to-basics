@@ -1,5 +1,12 @@
 # Importing and Exporting Components
 Just like with the basics section, I understand importing and exporting components fairly well, so this section will cover new information
+- [Importing and Exporting Components](#importing-and-exporting-components)
+  - [The Root Component File](#the-root-component-file)
+  - [Default vs Named Export](#default-vs-named-export)
+    - [Default Export](#default-export)
+    - [Named Export](#named-export)
+    - [Syntax Rules for Default vs Named](#syntax-rules-for-default-vs-named)
+
 ## The Root Component File
 The root component is the top-level element that is the parent of all other components in your application. Where this file is located and what it is called depends on the framework being used.
 

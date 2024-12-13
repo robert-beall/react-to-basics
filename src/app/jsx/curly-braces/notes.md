@@ -1,5 +1,11 @@
 # JavaScript in JSX with Curly Braces
 Curly braces allow you to insert JavaScript into JSX markup.
+- [JavaScript in JSX with Curly Braces](#javascript-in-jsx-with-curly-braces)
+  - [Passing Property Values Dynamically](#passing-property-values-dynamically)
+  - [Embedding JavaScript in JSX](#embedding-javascript-in-jsx)
+  - [Where to use Curly Braces](#where-to-use-curly-braces)
+  - [Passing Objects](#passing-objects)
+
 ## Passing Property Values Dynamically
 If you want to pass dynamic variables in JSX, pass them via curly braces like so: 
 
@@ -41,5 +47,4 @@ As an example, JSX style attributes take an object as input:
 Text
 </div>
 ```
-### Note
-Style attributes are camelCase in JSX. For example, 'background-color' becomes 'backgroundColor'.
+**Note:** Style attributes are camelCase in JSX. For example, 'background-color' becomes 'backgroundColor'.
